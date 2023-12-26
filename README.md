@@ -2,7 +2,6 @@
 
 [![Poetry](https://img.shields.io/badge/packaging-poetry-cyan.svg)](https://python-poetry.org/)
 [![GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/tobb_cs_community)
 [![black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![isort](https://img.shields.io/badge/%20imports-isort-%231674b1?style=flat&labelColor=ef8336)](https://pycqa.github.io/isort/)
 
@@ -10,7 +9,7 @@
 
 <hr>
 
-# SignalSavant
+# Signal Savant
 
 A cutting-edge Telegram bot repository that empowers users with comprehensive fundamental and technical analysis insights, coupled with real-time buy-sell signals for diverse financial assets.
 
@@ -36,7 +35,7 @@ Before setting up the project, ensure that you have the following prerequisites 
 1. Clone the project repository:
 
 ```
-git clone https://github.com/invictus-21/SignalSavant.git
+git clone https://github.com/invictus-21/Signal_Savant.git
 ```
 
 2. Navigate to the project directory:

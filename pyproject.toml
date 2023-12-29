@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "signal-savant"
+version = "0.1"
+description = "A cutting-edge Telegram bot repository that empowers users with comprehensive fundamental and technical analysis insights, coupled with real-time buy-sell signals for diverse financial assets."
+authors = ["invictus21 <ataturhan21@gmail.com>"]
+readme = "README.md"
+packages = [{include = "signal_savant"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.26.2"
+pandas = "^2.1.4"
+plotly = "^5.18.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

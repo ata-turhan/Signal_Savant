@@ -11,12 +11,13 @@ python = "^3.9"
 numpy = "^1.26.2"
 pandas = "^2.1.4"
 plotly = "^5.18.0"
-aiogram = "^3.2.0"
 emoji = "^2.9.0"
 apscheduler = "^3.10.4"
 ccxt = "^4.2.1"
 addict = "^2.4.0"
 kaleido = "0.2.1"
+python-dotenv = "^1.0.0"
+aiogram = "2.5"
 
 
 [build-system]

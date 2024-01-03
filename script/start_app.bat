@@ -4,6 +4,6 @@ chcp 65001
 
 cd ..
 
-poetry run python run "run.py"
+poetry run python "run.py"
 
 pause

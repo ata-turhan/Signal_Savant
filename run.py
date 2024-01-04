@@ -81,6 +81,7 @@ async def echo(message: types.Message):
 
 if __name__ == "__main__":
     # Sends every minute pass 5 seconds
+    """
     now = datetime.now()
     datetime_now = datetime(
         year=now.year, month=now.month, day=now.day, hour=now.hour, second=5
@@ -96,5 +97,5 @@ if __name__ == "__main__":
         kwargs={"bot": bot},
     )
     scheduler.start()
-
+    """
     executor.start_polling(dp, skip_updates=True)

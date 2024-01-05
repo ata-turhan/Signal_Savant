@@ -76,7 +76,9 @@ async def send_welcome(message: types.Message):
 
 @dp.message_handler()
 async def echo(message: types.Message):
-    await message.answer(message.text)
+    await message.answer(
+        "Please use help command to learn about valid commands you can use."
+    )
 
 
 if __name__ == "__main__":
